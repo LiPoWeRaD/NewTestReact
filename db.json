@@ -1,0 +1,162 @@
+[
+    {
+      "id": "1",
+      "name": "Ragdoll",
+      "temperament": "Gentle, Quiet, Friendly, Easygoing",
+      "origin": "United States",
+      "life_span": "12 - 17 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/ragdoll-1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Exotic Shorthair",
+      "temperament": "Quiet, Lovely, Warm pure, Sweet",
+      "origin": "United States",
+      "life_span": "12 - 15 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/exotic-shorthair-1.jpg"
+    },
+    {
+      "id": "3",
+      "name": "British Shorthair",
+      "temperament": "Easy Going, Family, Loyal, Patient",
+      "origin": "United Kingdom",
+      "life_span": "12 - 17 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/british-shorthair-1.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Persian",
+      "temperament": "Gentle, Sensitive, Quiet, Ability",
+      "origin": "Iran",
+      "life_span": "14 - 15 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/persian-cat-1.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Maine Coon",
+      "temperament": "Gentle, Intelligent, Independent",
+      "origin": "United States",
+      "life_span": "12 - 18 years",
+      "image": "https://i.yapx.ru/X5AWu.jpg"
+    },
+    {
+      "id": "6",
+      "name": "American Shorthair",
+      "temperament": "Active, Curious, Easy Going, Playful",
+      "origin": "United States",
+      "life_span": "12 - 17 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/american-shorthair-1.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Russian Blue",
+      "temperament": "Gentle, Friendly, Affectionate, Intelligent",
+      "origin": "Russia",
+      "life_span": "12 - 15 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/russian-blue-1.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Devon Rex",
+      "temperament": "Active, Friendly, Loyal, Independent",
+      "origin": "United Kingdom",
+      "life_span": "12 - 15 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/devon-rex-1.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Siberian",
+      "temperament": "Gentle, Affectionate, Loyal, Intelligent",
+      "origin": "Russia",
+      "life_span": "12 - 15 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/siberian-1.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Scottish Fold",
+      "temperament": "Gentle, Affectionate, Loyal, Intelligent",
+      "origin": "United Kingdom",
+      "life_span": "12 - 15 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/scottish-fold-1.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Abyssinian",
+      "temperament": "Energetic, Independent, Intelligent, Gentle",
+      "origin": "Egypt",
+      "life_span": "14 - 15 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/abyssinian-1.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Norwegian Forest Cat",
+      "temperament": "Curious, Intelligent, Loving, Playful",
+      "origin": "Norway",
+      "life_span": "12 - 16 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/norwegian-forest-cat-1.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Sphynx",
+      "temperament": "Gentle, Affectionate, Loyal, Intelligent",
+      "origin": "United Kingdom",
+      "life_span": "12 - 15 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/sphynx-1.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Balinese",
+      "temperament": "Gentle, Affectionate, Loyal, Intelligent",
+      "origin": "Indonesia",
+      "life_span": "12 - 15 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/balinese-1.jpg"
+    },
+    {
+      "id": "15",
+      "name": "American Bobtail",
+      "temperament": "Gentle, Affectionate, Loyal, Intelligent",
+      "origin": "United States",
+      "life_span": "12 - 15 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/american-bobtail-1.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Burmese",
+      "temperament": "Curious, Family, Intelligent, Interactive",
+      "origin": "Burma, Thailand",
+      "life_span": "15 - 16 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/burmese-1.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Birman",
+      "temperament": "Active, Gentle, Social",
+      "origin": "France",
+      "life_span": "14 - 15 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/birman-1.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Japanese Bobtail",
+      "temperament": "Family, Lively, Loyal, Outgoing",
+      "origin": "Japan, Southeast Asia",
+      "life_span": "12 - 16 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/japanese-bobtail-1.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Manx",
+      "temperament": "Easy Going, Intelligent, Loyal, Playful",
+      "origin": "Isle of Man",
+      "life_span": "12 - 14 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/manx-1.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Egyptian Mau",
+      "temperament": "Agile, Intelligent, Loyal, Playful",
+      "origin": "Egypt",
+      "life_span": "18 - 20 years",
+      "image": "https://www.catbreedslist.com/uploads/cat-pictures/egyptian-mau-1.jpg"
+    }
+  ]
